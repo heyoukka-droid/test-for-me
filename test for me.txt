@@ -8,5 +8,7 @@ to important and experimental saves where you went off the course of what you wo
 
 exercise 2
 you are supposed to edit this same file but without first pulling so you don't have the updated version.
-Modify this same lines locally so line number 9-12, stage, commit with a message and then try to push it without pulling it first.
+Modify this same lines locally so line number 9-14, stage, commit with a message and then try to push it without pulling it first.
 And then you need to resolve the conflict.
+exercise 2.1
+edit this line
