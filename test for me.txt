@@ -5,3 +5,8 @@ so this is new branch but edit on the same file the timeline it's just "organize
 so it doesn't really differ from branch other than organizing so they could be thought as backups or saves when playing games
 imagine you're playing the same game but you want to save the game but you want some kind of way to organize them
 to important and experimental saves where you went off the course of what you would normally do
+
+exercise 2
+you are supposed to edit this same file but without first pulling so you don't have the updated version.
+Modify this same lines locally so line number 9-12, stage, commit with a message and then try to push it without pulling it first.
+And then you need to resolve the conflict.
